@@ -10,7 +10,6 @@ An endless-scroller mobile game made with Unity where the player controls a ball
 | Section | Description |
 |---|---|
 | [What this project is](#what-this-project-is) | Short summary and purpose |
-| [Screenshots (placeholders)](#screenshots-placeholders) | Image placeholders to replace with real screenshots |
 | [Features](#features) | Core gameplay features |
 | [Project status](#project-status) | Current development status |
 | [Recommended environment](#recommended-environment) | Unity version & tooling notes |
